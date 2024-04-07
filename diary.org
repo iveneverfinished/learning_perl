@@ -1,0 +1,10 @@
+* [2024-04-07 Sun]
+Still no learning yet; 
+I've set-up my old PowerBook G4 with ssh/git/emacs and am finally able to run a
+somewhat modern service. Maybe I should've gone with something more '97, but
+maybe that's just me procrastinating learning.
+Happy this set-up seems to work as is right now. It's quite surprising how this
+almost 20 year old laptop still manages to have a working battery, with a cycle
+count of 72.
+Is that why I've never finished learning perl? Getting side-tracked too quickly?
+Maybe! Oh well.
