@@ -1,3 +1,16 @@
+* [2024-06-04 Tue]
+Yesterday, I've been reading through the introduction - without a computer 
+handy, which I won't count for starting my learning experience yet. Today,
+I'm sitting down with the PowerBook G4 and I'm ready to make a start in the 
+book.
+** How do I want to learn?
+1. Read a (sub)chapter, including code
+2. Write down the key-words into my notebook
+3. Create a branch for the chapter
+4. Type down code-examples and run/modify them
+5. Revisit learning and write flash cards
+
+
 * [2024-04-07 Sun]
 Still no learning yet; 
 I've set-up my old PowerBook G4 with ssh/git/emacs and am finally able to run a
